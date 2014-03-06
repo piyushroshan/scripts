@@ -1,0 +1,3 @@
+#!/bin/bash
+shutdown -r +10 "Server will restart in 10 minutes. Please save your work."
+
