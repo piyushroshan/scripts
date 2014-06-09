@@ -19,3 +19,9 @@ nautilus-scripts-manager
 eclipse
 oracle-jdk7-installer
 chromium-browser
+oracle-jdk7-installer
+cuttlefish
+indicator-netspeed
+screen
+netbeans
+elipse
